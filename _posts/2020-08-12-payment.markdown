@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Payment"
-date:   2023-09-29 16:09:02 +0000
+date:   2023-09-29 15:09:02 +0000
 ---
 
 This FAQ section aims to cover the topic of payment.
