@@ -2,7 +2,7 @@
 
 [A simple FAQ site to answer commonly-asked questions in the HardwareSwapUK community.](https://faq.hardwareswap.uk)
 
-[Based on Texture theme by thelehhman](https://github.com/thelehhman/texture)
+[Based on Texture theme by samarsault](https://github.com/samarsault/texture)
 
 ## Development dependencies
 - A working Ruby installation, with bundler
