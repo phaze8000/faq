@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Payment"
-date:   2020-06-12 00:00:02 +0000
+date:   2023-09-29 16:09:02 +0000
 ---
 
 This FAQ section aims to cover the topic of payment.
@@ -9,6 +9,7 @@ This FAQ section aims to cover the topic of payment.
 # What payment methods should I use?
 
 The following payment methods are most commonly used on HWSUK:
+- PayPal Goods and Services is the only payment method we allow for electronic payments for posters with less than 10 confirmed trades. If you have 10+ trades, you can use alternative payment methods, however we recommend Goods and services, please consider due diligence if paying by another method as you will be unprotected.
 
 | Payment Method | Pros | Cons |
 | --- | --- | --- |
