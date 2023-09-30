@@ -17,7 +17,7 @@ Your timestamp must contain:
 
 - The current date **DD/MM/YYYY** and your reddit username written out on paper.
 - All of the items you're selling. If the item is used, the photo must be of the item. If the item is BNIB, you must clearly show that the box has not been opened (i.e, show the seal).
-    - Timestamps must be dated within 5 days of the day of the post.
+    - Timestamps must be dated within 7 days of the day of the post.
 
 **PayPal Goods and Services is the only payment method we allow for electronic payments for posters with less than 10 confirmed trades. If you have 10+ trades, you can use alternative payment methods, however we recommend using Goods and Services. Please exercise due diligence if paying by another method as you will be unprotected.**
 
